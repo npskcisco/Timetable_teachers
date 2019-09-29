@@ -1,9 +1,12 @@
 # Timetable_teachers
 
 
-UI - PyQT - Animesh Bhaiji and Shubham(just for installation and conversion) ~Progress :  installed succesfully. Sample project made
+UI - PyQT - Animesh Bhaiji and Shubham(just for installation and conversion) ~Progress :installed succesfully.Sample project made.
+
 Database - SQLite - Shivani to make a database with sample data in format as discussed in class.
+
 Backend - Python - Koka, Shreyas, Shubham and Sanat to finish basic algorithm and give progress report by end of October.
+
 Project handler - Sanat Kuruganti
 
 
